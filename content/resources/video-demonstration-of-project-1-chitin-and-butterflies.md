@@ -2,13 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Projects
+optional_tab_title: ''
+optional_text: ''
+parent_title: Projects
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Video Demonstration of Project 1: Chitin and Butterflies'
 uid: 67fd69b6-168e-473a-f311-62d35afc18cc
 video_files:
   archive_url: http://www.archive.org/download/MIT4.112F12/MIT4_112F12_Video_Ex1_LK_300k.mp4
   video_captions_file: null
-  video_thumbnail_file: null
+  video_thumbnail_file: https://img.youtube.com/vi/jqpJ52XfOqM/default.jpg
   video_transcript_file: null
 video_metadata:
   youtube_id: jqpJ52XfOqM

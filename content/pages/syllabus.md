@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 55f74c5a-d3d0-bcfb-c3b9-45a1e2bc9cf4
 ---
@@ -27,7 +29,7 @@ Students should also be able to engage with an increasing level of design resear
 Required Resources
 ------------------
 
-A variety of tools and software are available for the design process, which includes form exploration, modeling, and producing drawings. For Project 1, students will be asked to use [Processing](http://processing.org/), an open source programming language, to develop digital generative drawings. Over the course of the studio, students are encouraged to develop their abilities in modeling their designs as well as producing representations and drawings using [Rhinoceros®](http://www.rhino3d.com/).
+A variety of tools and software are available for the design process, which includes form exploration, modeling, and producing drawings. For Project 1, students will be asked to use [Processing](http://processing.org/), an open source programming language, to develop digital generative drawings. Over the course of the studio, students are encouraged to develop their abilities in modeling their designs as well as producing representations and drawings using [Rhinoceros{{< sup "®" >}}](http://www.rhino3d.com/).
 
 Evaluation Criteria
 -------------------

@@ -2,13 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Projects
+optional_tab_title: ''
+optional_text: ''
+parent_title: Projects
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Video Demonstration of Project 1: Spider Web Deformation'
 uid: 4f21ce4f-a187-0aaa-09f1-7c646719e1f3
 video_files:
   archive_url: http://www.archive.org/download/MIT4.112F12/MIT4_112F12_Video_Ex1_TR_300k.mp4
   video_captions_file: null
-  video_thumbnail_file: null
+  video_thumbnail_file: https://img.youtube.com/vi/4VjL3SWAxjY/default.jpg
   video_transcript_file: null
 video_metadata:
   youtube_id: 4VjL3SWAxjY

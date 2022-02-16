@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 8560a4fe-7994-ff9f-0f62-d76be228874b
 ---
@@ -281,7 +284,7 @@ Final model depicting spatial relationships between labs, CO2 collection chamber
 {{< tdopen >}}
 
 
-CO2 Accumulation & Conversion
+CO{{< sub "2" >}} Accumulation & Conversion
 
 _(Courtesy of Anonymous Student. Used with permission.)_
 
