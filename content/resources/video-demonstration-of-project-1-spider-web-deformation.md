@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Projects
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Video Demonstration of Project 1: Spider Web Deformation'
 uid: 4f21ce4f-a187-0aaa-09f1-7c646719e1f3
 video_files:

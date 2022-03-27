@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8560a4fe-7994-ff9f-0f62-d76be228874b
 resourcetype: Document
 title: 'Project 1: Chitin and Butterflies'
 uid: cbf44dcc-03de-8c8b-50c9-daf0f2261aaf

@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8560a4fe-7994-ff9f-0f62-d76be228874b
 resourcetype: Image
 title: Thumbnail_Ex2_EMT.jpg
 uid: 33be10f6-1779-f2bf-ed80-d6da89b11177

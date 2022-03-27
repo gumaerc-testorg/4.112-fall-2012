@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: efa81605-6d29-868d-9aa2-6e8d154897b6
 resourcetype: Document
 title: 'Project 1: The Drawing Machine'
 uid: 04cf2196-0139-a987-094f-f48b0a7508f0

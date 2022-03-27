@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8560a4fe-7994-ff9f-0f62-d76be228874b
 resourcetype: Document
 title: 'Project 1: Viral Capsid Self Assembly: Hierarchal Pair Construction'
 uid: f64d7763-6f28-ce84-2c7d-ee738b22f628

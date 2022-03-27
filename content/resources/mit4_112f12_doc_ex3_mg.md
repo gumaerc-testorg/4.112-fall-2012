@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8560a4fe-7994-ff9f-0f62-d76be228874b
 resourcetype: Document
 title: 'Project 3: Branching Out'
 uid: 79c746f9-39bd-9397-2fd1-def623a258e7

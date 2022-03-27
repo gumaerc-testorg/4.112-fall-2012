@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8560a4fe-7994-ff9f-0f62-d76be228874b
 resourcetype: Document
 title: 'Project 3: CO2 Accumulation & Conversion'
 uid: 51195642-2717-0c79-82d4-510cfe957762

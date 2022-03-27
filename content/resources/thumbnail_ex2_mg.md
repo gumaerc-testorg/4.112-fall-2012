@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8560a4fe-7994-ff9f-0f62-d76be228874b
 resourcetype: Image
 title: Thumbnail_Ex2_MG.jpg
 uid: b17bd207-9355-ffae-d47d-97b87e7aa432

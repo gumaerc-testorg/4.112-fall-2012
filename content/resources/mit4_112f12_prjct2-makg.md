@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: efa81605-6d29-868d-9aa2-6e8d154897b6
 resourcetype: Document
 title: 'Project 2: The Making Machine'
 uid: afd3c373-4035-b579-4b5b-1f89cf449fd8

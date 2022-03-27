@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8560a4fe-7994-ff9f-0f62-d76be228874b
 resourcetype: Document
 title: 'Project 1: The Belousov-Zhabotinsky Reaction'
 uid: 5e744054-f438-44d7-9a1a-d4075fa53009

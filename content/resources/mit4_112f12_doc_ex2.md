@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8560a4fe-7994-ff9f-0f62-d76be228874b
 resourcetype: Document
 title: 'Project 2: EMT Variations in Cancer'
 uid: abcfe751-01a0-cfaf-a8bf-2e9bdfe6fb58

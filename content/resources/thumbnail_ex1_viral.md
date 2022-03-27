@@ -15,6 +15,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8560a4fe-7994-ff9f-0f62-d76be228874b
 resourcetype: Image
 title: Thumbnail_Ex1_Viral.jpg
 uid: 5aa2218c-32ed-7b36-b9a6-0a1addcad889

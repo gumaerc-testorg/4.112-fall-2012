@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8560a4fe-7994-ff9f-0f62-d76be228874b
 resourcetype: Document
 title: ' Project 1: Spider Web Deformation'
 uid: 64bb67b1-38c0-7dc3-4f27-b13fa3ce5ab9

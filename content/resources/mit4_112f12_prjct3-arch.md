@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: efa81605-6d29-868d-9aa2-6e8d154897b6
 resourcetype: Document
 title: 'Project 3: The Architecture Machine'
 uid: 442762cc-4201-7e8a-a7ab-c6d3307c8e0b

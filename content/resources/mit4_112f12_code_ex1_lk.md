@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8560a4fe-7994-ff9f-0f62-d76be228874b
 resourcetype: Other
 title: MIT4_112F12_Code_Ex1_LK.pde
 uid: 7baa3d21-9733-3859-a2e1-009e3a423d84

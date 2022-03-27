@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Projects
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Video Demonstration of Project 1: Belousov-Zhabotinsky Reaction'
 uid: 5e6f45b0-18f7-336f-047e-8508b97628e3
 video_files:
