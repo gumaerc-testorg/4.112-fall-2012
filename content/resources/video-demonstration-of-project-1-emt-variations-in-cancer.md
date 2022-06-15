@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Projects
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This video demonstrates the code written in response to the precedent of epithelial mesenchymal transition (EMT). Each rectangular cell undergoes distortion at its diagonals, and mouseovers cause changes in cell forms and connections to adjacent cells. (Courtesy of MIT Student. Used with permission.)
 
 **Speaker:** MIT Student
+
+
+

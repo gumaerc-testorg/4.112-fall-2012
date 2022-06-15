@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file related to project 1.
-file: /media/courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/3d576e5bdb706ac248b62a151cebcb52_MIT4_112F12_Code_Ex1_PH.pde
+file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/3d576e5bdb706ac248b62a151cebcb52_MIT4_112F12_Code_Ex1_PH.pde
 file_type: application/octet-stream
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Other
 title: MIT4_112F12_Code_Ex1_PH.pde
 uid: 3d576e5b-db70-6ac2-48b6-2a151cebcb52
 ---
+This is a supporting file related to project 1.
+

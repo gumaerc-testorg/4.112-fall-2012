@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Projects
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This video demonstrates the code written in response to the precedent of spider web deformation. Mouse movements initially create a network of lines, which thicken in density. Mouse clicks toggle the operation from constructive to destructive. (Courtesy of Tiandra Ray. Used with permission.)
 
 **Speaker:** Tiandra Ray
+
+
+
