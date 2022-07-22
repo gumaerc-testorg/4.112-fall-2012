@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the studio and information
+  on course meeting times, required resources, evluation criteria, grading, and studio
+  culture.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 55f74c5a-d3d0-bcfb-c3b9-45a1e2bc9cf4
 ---
@@ -20,14 +25,14 @@ We will investigate the Nano-Machine with three projects:
 2.  Investigating the drawings as devices capable of shaping 3-dimensional physical objects and systems. The students will cast a series of constructs employing additive, subtractive and combinatorial operations—i.e., "_The Making Machine_."
 3.  Creating space by examining notions of the solid and the void, inside, outside, scale, context—i.e., "_The Architecture Machine_."
 
-Detailed descriptions, schedules, and deliverables for each of the projects are available under [Assignments]({{< baseurl >}}/pages/assignments). Samples of student work from the Fall 2012 studio are available under [Projects]({{< baseurl >}}/pages/projects).
+Detailed descriptions, schedules, and deliverables for each of the projects are available under {{% resource_link efa81605-6d29-868d-9aa2-6e8d154897b6 "Assignments" %}}. Samples of student work from the Fall 2012 studio are available under {{% resource_link 8560a4fe-7994-ff9f-0f62-d76be228874b "Projects" %}}.
 
 Students should also be able to engage with an increasing level of design research through iterative studies and move fluidly between different modes and scales of operation. Conventions of architectural representation and communication through drawing and modeling should be engaged with clarity and intention. Students will need to demonstrate basic application of design skills, understanding of architectural conventions, and ability to sustain an increasing level of research in the projects over the semester. Completion of each of the exercises, rigor in process and clarity in representation, as well as the overall progress of the semester will be fundamental factors in the final evaluation.
 
 Required Resources
 ------------------
 
-A variety of tools and software are available for the design process, which includes form exploration, modeling, and producing drawings. For Project 1, students will be asked to use [Processing](http://processing.org/), an open source programming language, to develop digital generative drawings. Over the course of the studio, students are encouraged to develop their abilities in modeling their designs as well as producing representations and drawings using [Rhinoceros®](http://www.rhino3d.com/).
+A variety of tools and software are available for the design process, which includes form exploration, modeling, and producing drawings. For Project 1, students will be asked to use [Processing](http://processing.org/), an open source programming language, to develop digital generative drawings. Over the course of the studio, students are encouraged to develop their abilities in modeling their designs as well as producing representations and drawings using [Rhinoceros{{< sup "®" >}}](http://www.rhino3d.com/).
 
 Evaluation Criteria
 -------------------

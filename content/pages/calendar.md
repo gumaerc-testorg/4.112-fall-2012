@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: The section provides a week-by-week listing of topics in the studio,
+  as well as key dates for projects and presentations.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 8ae8c891-8cfe-ec46-654c-a7b8fb2495b5
 ---
 
-Detailed schedules for each of the projects are available under [Assignments]({{< baseurl >}}/pages/assignments).
+Detailed schedules for each of the projects are available under {{% resource_link efa81605-6d29-868d-9aa2-6e8d154897b6 "Assignments" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
