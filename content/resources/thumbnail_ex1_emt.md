@@ -12,6 +12,7 @@ image_metadata:
     on a white background.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -21,4 +22,3 @@ title: Thumbnail_Ex1_EMT.jpg
 uid: 9a3d8e03-6fa7-aab7-7021-7558af0a76ad
 ---
 Processing sketch with logic simulating the transformations of mesenchymal cells. Courtesy of MIT Student. Used with permission.
-

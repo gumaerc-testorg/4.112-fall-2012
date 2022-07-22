@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This video demonstrates the code written in response to the precedent of the Belousov-Zhabotinsky reaction. Each node is connected to others through a network of lines, and clicking on the screen increases attraction to that particular node. (Courtesy of Juanita Ballesteros. Used with permission.)
 
 **Speaker:** Juanita Ballesteros
-
-
 

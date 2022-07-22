@@ -13,6 +13,7 @@ image_metadata:
     a white background.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -22,4 +23,3 @@ title: Thumbnail_Ex1_JB.jpg
 uid: 8074481f-9495-14a1-48d9-d16112734f6d
 ---
 Processing sketch with logic simulating the Beloousov-Zhabotinsky Reaction through drawn lines and network points. Courtesy of Juanita Ballesteros. Used with permission.
-

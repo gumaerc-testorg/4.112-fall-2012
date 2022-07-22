@@ -5,6 +5,7 @@ file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/
 file_type: application/octet-stream
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT4_112F12_Code_Ex1.pde
 uid: c81c6fab-6af3-9aea-5afb-29fe76065889
 ---
 This is a supporting file related to project 1.
-

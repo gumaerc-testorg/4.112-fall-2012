@@ -5,6 +5,7 @@ file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Project 3: The Architecture Machine'
 uid: 442762cc-4201-7e8a-a7ab-c6d3307c8e0b
 ---
 This resource contains information regarding the architecture machine.
-

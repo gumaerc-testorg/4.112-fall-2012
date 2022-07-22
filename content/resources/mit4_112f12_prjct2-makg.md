@@ -5,6 +5,7 @@ file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Project 2: The Making Machine'
 uid: afd3c373-4035-b579-4b5b-1f89cf449fd8
 ---
 This resource contains information regarding the making machine.
-

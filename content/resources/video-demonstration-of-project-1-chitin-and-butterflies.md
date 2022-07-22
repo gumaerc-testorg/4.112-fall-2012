@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This video demonstrates the code written in response to the precedent of chitin synthesis. Nodes and connecting lines are eventually clustered into strands, and are able to be manipulated within the framework of the strands. (Courtesy of Lina Kara'in. Used with permission.)
 
 **Speaker:** Lina Kara'in
-
-
 

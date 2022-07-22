@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Drawing of bulbous cells with standing and reclining figures in the spaces.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: Thumbnail_Ex3_CR.jpg
 uid: 3083e416-69c7-a111-2e3d-da0921ebffdd
 ---
 Section drawing of inhabitable spaces formed by packed volumes and their intersections. Courtesy of Christiana Rosales. Used with permission.
-

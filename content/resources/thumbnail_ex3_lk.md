@@ -11,6 +11,7 @@ image_metadata:
     contour lines on the branches.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: Thumbnail_Ex3_LK.jpg
 uid: f341e1de-336c-4f43-2a2e-162226ec3ea4
 ---
 Section drawing of the branched spaces with partial submersion in water. Courtesy of Lina Kara’in. Used with permission.
-

@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Photograph of twisted tentacle-like extensions from a flat base.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Thumbnail_Ex2_EMT.jpg
 uid: 33be10f6-1779-f2bf-ed80-d6da89b11177
 ---
 Model of cell transformations as oxygen concentrations vary in the z-direction. Courtesy of MIT Student. Used with permission.
-

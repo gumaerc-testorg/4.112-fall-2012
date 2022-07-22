@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Clusters of webbed white lines drawn on a black background.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: Thumbnail_Ex1_TR.jpg
 uid: 1f998c69-b32b-4e1a-91fa-1908803c5ebc
 ---
 Processing sketch with logic simulating how a spider web reacts to a point of stress. Courtesy of Tiandra Ray. Used with permission.
-

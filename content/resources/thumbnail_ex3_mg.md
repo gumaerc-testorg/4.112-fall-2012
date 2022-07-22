@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Photograph of bundled, white clear tubes against a black background.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Thumbnail_Ex3_MG.jpg
 uid: 090f365b-a26f-aa6a-167c-d15bcbaa8d71
 ---
 Final model of branch growth using plexiglass plates and rods. Courtesy of Marianna Gonzalez. Used with permission.
-

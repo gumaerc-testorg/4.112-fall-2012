@@ -5,6 +5,7 @@ file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Project 2: EMT Variations in Cancer'
 uid: abcfe751-01a0-cfaf-a8bf-2e9bdfe6fb58
 ---
 This resource contains information regarding EMT variations in cancer.
-

@@ -5,6 +5,7 @@ file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Project 3: Chitin and Butterflies'
 uid: f51ee4ea-9914-2549-86be-a2ce5d87a07f
 ---
 This resource contains information regarding chitin and butterflies.
-

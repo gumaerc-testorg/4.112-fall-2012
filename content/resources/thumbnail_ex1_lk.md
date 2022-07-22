@@ -11,6 +11,7 @@ image_metadata:
     on a white background.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: Thumbnail_Ex1_LK.jpg
 uid: e0f0050a-b6db-70eb-399d-4e8733b146c6
 ---
 Processing sketch with logic simulating the process of chitin synthesis. Courtesy of Lina Kara’in. Used with permission.
-

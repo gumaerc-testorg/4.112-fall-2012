@@ -12,6 +12,7 @@ image_metadata:
     on a white background.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -21,4 +22,3 @@ title: Thumbnail_Ex1_Viral.jpg
 uid: 5aa2218c-32ed-7b36-b9a6-0a1addcad889
 ---
 Processing sketch with logic simulating clusters of hexagonal and branching networks. Courtesy of MIT Student. Used with permission.
-

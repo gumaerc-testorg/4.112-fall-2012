@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Photograph of gray stacked discs in multiple bundles.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Thumbnail_Ex2_MG.jpg
 uid: b17bd207-9355-ffae-d47d-97b87e7aa432
 ---
 Model of branch growth shown through cylindrical branches and nodes. Courtesy of Marianna Gonzalez. Used with permission.
-
