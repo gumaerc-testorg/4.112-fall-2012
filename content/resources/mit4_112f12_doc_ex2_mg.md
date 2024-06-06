@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding branching out.
 file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/3a7b4e8a705bf253625ac5da41a62377_MIT4_112F12_Doc_Ex2_MG.pdf
+file_size: 3105031
 file_type: application/pdf
 learning_resource_types:
 - Projects
