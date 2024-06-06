@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file related to project 1.
 file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/7baa3d2197333859a2e1009e3a423d84_MIT4_112F12_Code_Ex1_LK.pde
+file_size: 3360
 file_type: application/octet-stream
 learning_resource_types:
 - Projects

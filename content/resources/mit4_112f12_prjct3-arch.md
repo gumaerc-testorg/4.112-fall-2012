@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding the architecture machine.
 file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/442762cc42017e8aa7abc6d3307c8e0b_MIT4_112F12_prjct3-arch.pdf
+file_size: 92257
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding the making machine.
 file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/afd3c3734035b5794b5b1f89cf449fd8_MIT4_112F12_prjct2-makg.pdf
+file_size: 552894
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: Model of branch growth shown through cylindrical branches and nodes.
   Courtesy of Marianna Gonzalez. Used with permission.
 file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/b17bd2079355ffaed47d97b87e7aa432_Thumbnail_Ex2_MG.jpg
+file_size: 22607
 file_type: image/jpeg
 image_metadata:
   caption: Model of branch growth shown through cylindrical branches and nodes.
