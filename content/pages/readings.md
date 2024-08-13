@@ -26,7 +26,7 @@ Rothemund, Paul Wilhelm Karl. "[A DNA and Restriction Enzyme Implementation of T
 
 Rothemund, Paul Wilhelm Karl. "[Folding DNA to Create Nanoscale Shapes and Patterns](http://dx.doi.org/10.1038/nature04586)." *Nature* 440 (2006): 297–302.
 
-Griffith, Saul Thomas. "[Growing Machines](http://alumni.media.mit.edu/~saul/PhD/)." Ph.D in Media Arts and Sciences Thesis. MIT, 2004.
+Griffith, Saul Thomas. "[Growing Machines](https://fab.cba.mit.edu/classes/865.18/discrete/micro/sgphd10MB.pdf)." Ph.D in Media Arts and Sciences Thesis. MIT, 2004.
 
 Aranda, B., and C. Lasch. "Introduction." In *Pamphlet Architecture 27: Tooling*. Princeton Architectural Press, 2005, pp. 8–9. ISBN: 9781568985473. \[Preview with [Google Books](http://books.google.com/books?id=MG8xfIe55t0C&pg=PA8#v=onepage)\]
 
