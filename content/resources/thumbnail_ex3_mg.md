@@ -2,7 +2,7 @@
 content_type: resource
 description: Final model of branch growth using plexiglass plates and rods. Courtesy
   of Marianna Gonzalez. Used with permission.
-file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/090f365ba26faa6a167cd15bcbaa8d71_Thumbnail_Ex3_MG.jpg
+file: /ol-ocw-studio-app/courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/090f365ba26faa6a167cd15bcbaa8d71_Thumbnail_Ex3_MG.jpg
 file_size: 12567
 file_type: image/jpeg
 image_metadata:
