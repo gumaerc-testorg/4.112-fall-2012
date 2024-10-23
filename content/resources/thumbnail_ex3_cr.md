@@ -2,7 +2,7 @@
 content_type: resource
 description: Section drawing of inhabitable spaces formed by packed volumes and their
   intersections. Courtesy of Christiana Rosales. Used with permission.
-file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/3083e41669c7a1112e3dda0921ebffdd_Thumbnail_Ex3_CR.jpg
+file: /ol-ocw-studio-app/courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/3083e41669c7a1112e3dda0921ebffdd_Thumbnail_Ex3_CR.jpg
 file_size: 5799
 file_type: image/jpeg
 image_metadata:
