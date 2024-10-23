@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding spider web deformation.
-file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/64bb67b138c07dc34f27b13fa3ce5ab9_MIT4_112F12_Doc_Ex1_TR.pdf
+file: /ol-ocw-studio-app/courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/64bb67b138c07dc34f27b13fa3ce5ab9_MIT4_112F12_Doc_Ex1_TR.pdf
 file_size: 705549
 file_type: application/pdf
 learning_resource_types:
