@@ -2,7 +2,7 @@
 content_type: resource
 description: "Processing sketch with logic simulating the process of chitin synthesis.\
   \ Courtesy of Lina Kara\u2019in. Used with permission."
-file: /ol-ocw-studio-app/courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/e0f0050ab6db70eb399d4e8733b146c6_Thumbnail_Ex1_LK.jpg
+file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/e0f0050ab6db70eb399d4e8733b146c6_Thumbnail_Ex1_LK.jpg
 file_size: 14964
 file_type: image/jpeg
 image_metadata:
