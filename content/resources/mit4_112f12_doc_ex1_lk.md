@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding chitin and butterflies.
-file: /ol-ocw-studio-app/courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/cbf44dcc03de8c8b50c9daf0f2261aaf_MIT4_112F12_Doc_Ex1_LK.pdf
+file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/cbf44dcc03de8c8b50c9daf0f2261aaf_MIT4_112F12_Doc_Ex1_LK.pdf
 file_size: 3004859
 file_type: application/pdf
 learning_resource_types:

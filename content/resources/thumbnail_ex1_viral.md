@@ -2,7 +2,7 @@
 content_type: resource
 description: Processing sketch with logic simulating clusters of hexagonal and branching
   networks. Courtesy of MIT Student. Used with permission.
-file: /ol-ocw-studio-app/courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/5aa2218c32ed7b36b9a60a1addcad889_Thumbnail_Ex1_Viral.jpg
+file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/5aa2218c32ed7b36b9a60a1addcad889_Thumbnail_Ex1_Viral.jpg
 file_size: 16392
 file_type: image/jpeg
 image_metadata:

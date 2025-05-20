@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding viral capsid self assembly:
   hierarchal pair construction.'
-file: /ol-ocw-studio-app/courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/e4be5e9e9d1903c3cd20199bb4652d9f_MIT4_112F12_Doc_Ex1_Viral.pdf
+file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/e4be5e9e9d1903c3cd20199bb4652d9f_MIT4_112F12_Doc_Ex1_Viral.pdf
 file_size: 1044934
 file_type: application/pdf
 learning_resource_types:

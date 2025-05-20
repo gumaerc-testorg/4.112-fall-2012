@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding the Belousov-Zhabotinsky
   reaction.
-file: /ol-ocw-studio-app/courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/5e744054f43844d79a1ad4075fa53009_MIT4_112F12_Doc_Ex1_JB.pdf
+file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/5e744054f43844d79a1ad4075fa53009_MIT4_112F12_Doc_Ex1_JB.pdf
 file_size: 1080770
 file_type: application/pdf
 learning_resource_types:
