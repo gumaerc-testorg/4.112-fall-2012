@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file related to project 1.
-file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/8c6f6b8e35902e480f6edeee027b8d11_MIT4_112F12_Code_Ex1_JB.pde
+file: /ol-ocw-studio-app/courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/8c6f6b8e35902e480f6edeee027b8d11_MIT4_112F12_Code_Ex1_JB.pde
 file_size: 4141
 file_type: application/octet-stream
 learning_resource_types:
