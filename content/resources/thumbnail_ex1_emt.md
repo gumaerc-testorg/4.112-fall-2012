@@ -2,7 +2,7 @@
 content_type: resource
 description: Processing sketch with logic simulating the transformations of mesenchymal
   cells. Courtesy of MIT Student. Used with permission.
-file: /courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/9a3d8e036fa7aab770217558af0a76ad_Thumbnail_Ex1_EMT.jpg
+file: /ol-ocw-studio-app/courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/9a3d8e036fa7aab770217558af0a76ad_Thumbnail_Ex1_EMT.jpg
 file_size: 18872
 file_type: image/jpeg
 image_metadata:
